@@ -7,7 +7,7 @@ Instalação
 	
 	git clone https://github.com/victordfb/calculo_importacao.git
 	cd calculo_importacao
-	node install
+	npm install
 	
 
 Uso
