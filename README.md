@@ -4,10 +4,10 @@ Calculo de importação
 Instalação
 ----------
 
-	```shell
-	git clone ...
-  cd calculo_importacao
-  node install
+	```
+	git clone
+	cd calculo_importacao
+	 node install
 	```
 
 Uso
