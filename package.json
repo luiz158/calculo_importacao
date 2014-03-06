@@ -1,0 +1,14 @@
+{
+  "name": "calcula_importacao",
+  "version": "0.0.1",
+  "description": "Calcula preços de importação no brasil",
+  "main": "importacao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Dolirio",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "~0.4.0"
+  }
+}
